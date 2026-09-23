@@ -1,7 +1,11 @@
-# simple-agent
+# Personal Dietary & Macro Chef Agent
 
-Simple ReAct agent
-Agent generated with `agents-cli` version `1.1.0`
+An intelligent agentic application built with Google ADK (Agent Development Kit), Gemini 3.1 Flash / Omni, and Vertex AI Agent Engine. It helps users calculate macros, look up real and custom recipes, generate AI dish imagery, create culinary short videos, and discover local grocery stores via Google Maps APIs.
+
+## 📹 Demo Video
+
+Check out the interactive agent demo recording in action: [`agent_demo.webm`](./agent_demo.webm)
+
 
 ## Project Structure
 
